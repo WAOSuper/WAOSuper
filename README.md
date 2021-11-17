@@ -1,25 +1,25 @@
-<!-- <p> -->
+<p>
 <h1 align="center">Hi, I am WAO Super </h1>
 <h3 align="center">Full Stack Developer | Blockchain Scientist </h3>
-<!-- </p> -->
-
-
-<!-- - 👋 Hi, I’m @WAOSuper -->
-<!-- - 👀 I’m interested in <b>Blockchain Technology</b> -->
-<!-- - 🌱 I’m currently learning ... -->
-<!-- - 💞️ I’m looking to collaborate on ... -->
-<!-- - 📫 How to reach me ... -->
-<div>
-<p align="center">
-  <!-- <img align="center" src="https://github.com/WAOSuper/WAOSuper/blob/main/logo.png?raw=true" style = "width: -webkit-fill-available;"/> -->
 </p>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=WAOSuper/WAOSuper" />
+<p>
+<br>
+</p>
+
+- 👋 Hi, I’m @WAOSuper
+- 👀 I’m interested in <b>Blockchain Technology</b>
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+
+
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=WAOSuper" />
 <img align="right" src="https://img.shields.io/github/followers/WAOSuper?label=Follow&style=social" />
-<h1 align="center"></h1>
-<img align="left" height="" src="https://github-readme-stats.vercel.app/api?username=WAOSuper&show_icons=true&theme=vue-dark&count_private=true" />
-<!-- <img align="right" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAOSuper&layout=compact&theme=vue-dark&count_private=true" /> -->
-</div>
-  <br>
+<img height="20px" />
+<h2 font-weight="bold">GitHub Stats</h2>
+<img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=WAOSuper&show_icons=true&theme=vue-dark&count_private=true" />
+<img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeloniousGru-Super&layout=compact&theme=vue-dark&count_private=true" />
+<img height="180px" />
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
 <table>
@@ -57,7 +57,7 @@
    </tr>
 </table>
 
-<img height="300px" src="https://activity-graph.herokuapp.com/graph?username=WAOSuper&theme=github&count_private=true" />
+<img height="" width="100%" src="https://activity-graph.herokuapp.com/graph?username=WAOSuper&theme=github&count_private=true" />
 
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
@@ -77,6 +77,10 @@
 <br />
 
 </div>
+# FeloniousGru-Super
+# FeloniousGru-Super
+# FeloniousGru-Super
+
 
 <!-- <img height="" src="https://activity-graph.herokuapp.com/graph?username=WAOSuper&theme=github&count_private=true" /> -->
 
