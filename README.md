@@ -1,17 +1,7 @@
 <p>
-<h1 align="center">Hi, I am WAO Super </h1>
-<h3 align="center">Full Stack Developer | Blockchain Scientist </h3>
+<!-- <h1 align="center">Hi, I am WAO Super </h1> -->
+<h1 align="center">Full Stack Developer | Blockchain Scientist </h3>
 </p>
-<p>
-<br>
-</p>
-
-- 👋 Hi, I’m @WAOSuper
-- 👀 I’m interested in <b>Blockchain Technology</b>
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-
-
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=WAOSuper" />
 <img align="right" src="https://img.shields.io/github/followers/WAOSuper?label=Follow&style=social" />
