@@ -3,15 +3,15 @@
 <h1 align="center">Full Stack Developer | Blockchain Engineer </h3>
 </p>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=WAOSuper" />
-<img align="right" src="https://img.shields.io/github/followers/WAOSuper?label=Follow&style=social" />
-<img height="20px" />
+<!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=WAOSuper" /> -->
+<!-- <img align="right" src="https://img.shields.io/github/followers/WAOSuper?label=Follow&style=social" /> -->
+<!-- <img height="20px" /> -->
 <!-- <h2 font-weight="bold">GitHub Stats</h2> -->
 <!-- <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=WAOSuper&show_icons=true&theme=vue-dark&count_private=true" /> -->
 <!-- <img align="right" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeloniousGru-Super&layout=compact&theme=vue-dark&count_private=true" /> -->
 <!-- <img height="180px" /> -->
 
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
+<!-- <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2> -->
 <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="100"></td>
