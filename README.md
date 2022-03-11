@@ -1,6 +1,6 @@
 <p>
 <!-- <h1 align="center">Hi, I am WAO Super </h1> -->
-<h1 align="center">Full Stack Developer | Blockchain Scientist </h3>
+<h1 align="center">Full Stack Developer | Blockchain Engineer </h3>
 </p>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=WAOSuper" />
