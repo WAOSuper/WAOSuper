@@ -47,9 +47,9 @@
    </tr>
 </table>
 
-<img height="" width="100%" src="https://activity-graph.herokuapp.com/graph?username=WAOSuper&theme=github&count_private=true" />
+<!-- <img height="" width="100%" src="https://activity-graph.herokuapp.com/graph?username=WAOSuper&theme=github&count_private=true" /> -->
 
-## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
+<!-- ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
@@ -66,7 +66,7 @@
 ### Video Conference Web & Mobile application
 <br />
 
-</div>
+</div> -->
 
 <!-- <img height="" src="https://activity-graph.herokuapp.com/graph?username=WAOSuper&theme=github&count_private=true" /> -->
 
