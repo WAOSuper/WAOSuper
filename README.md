@@ -17,7 +17,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💹 &nbsp: Solidity | DEX | DeFi | NFT | DAO | NFT Game
+- 💹 &nbsp; Solidity | DEX | DeFi | NFT | DAO | NFT Game
 - 💻 &nbsp; C | C++ | C# | Java | Python  
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | jQuery
 - 🖥️ &nbsp; React | Redux | Vue | Next | Nuxt | GraphQL | Gatsby
