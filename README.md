@@ -2,26 +2,28 @@
 <!-- <h1 align="center">Hi, I am WAO Super </h1> -->
 <h1 align="center">Full Stack Developer | Blockchain Engineer </h3>
 </p>
-<h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<!-- <h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2> -->
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I’m currently learning Solana Blockchain
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- 💼 &nbsp; Blockchain engineer and full stack web developer.
+- 🌱 &nbsp; Enthusiast in Cryptocurrency ,NFT and Metaverse.
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 💹 &nbsp: Solidity | DEX | DeFi | NFT | DAO | NFT Game
+- 💻 &nbsp; C | C++ | C# | Java | Python  
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | jQuery
+- 🖥️ &nbsp; React | Redux | Vue | Next | Nuxt | GraphQL | Gatsby
+- 🛢 &nbsp; MySQL | MongoDB | PostgreSQL | Firebase | Xampp
+- 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git
+- 🖥 &nbsp; Figma | Adobe Xd | Illustrator | Photoshop | OpenShot
 
 <br>
 <!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=WAOSuper" /> -->
